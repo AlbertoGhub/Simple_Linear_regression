@@ -43,7 +43,7 @@ The process is divided into four key stages, commonly used in most machine learn
 As can be observed, there is a strong linear relationship between the independent variable (X) and the dependent variable (Y). This indicates that the linear regression model performs well on the test data, demonstrating good generalisation, low error, and a strong linear fit.
 
 ### Training set
-![Alt Text](/Users/alberto/Documents/Coding/7_DataScience_ML_projects/Linear_Regression/1_Simple_Linear_regression/Images/training_results.png)
+![Training set](images/training_plot.png)
 
 ### Testing set
 ![Alt Text](/Users/alberto/Documents/Coding/7_DataScience_ML_projects/Linear_Regression/1_Simple_Linear_regression/Images/testing_results.png)
